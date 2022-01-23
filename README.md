@@ -9,6 +9,11 @@ STPIHKAL includes different commands supported by other devices and can be used 
 
 * Reads a vibration strength from serial and sends it to a Lovense Max 2
 
+**analogControl**
+
+* Reads a vibration strength from a potentiometer and sends it to a Lovense device, creating a vibration remote and allowing you to use Lovense devices without a phone. 
+
 ### What about my device?
+
 You will need to provide your own local name and characteristic uuids for other devices, these can be found using the nRF Connect for Mobile App.
 
